@@ -29,22 +29,33 @@
         private void InitializeComponent()
         {
             this.lblStudProfile = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblStudProfile
             // 
             this.lblStudProfile.AutoSize = true;
-            this.lblStudProfile.Location = new System.Drawing.Point(28, 55);
+            this.lblStudProfile.Location = new System.Drawing.Point(30, 32);
             this.lblStudProfile.Name = "lblStudProfile";
             this.lblStudProfile.Size = new System.Drawing.Size(187, 13);
             this.lblStudProfile.TabIndex = 0;
             this.lblStudProfile.Text = "Student Profile — GitHub Beginner Lab";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(39, 57);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(156, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Contact Number: 09171234567";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(251, 124);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lblStudProfile);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -57,6 +68,7 @@
         #endregion
 
         private System.Windows.Forms.Label lblStudProfile;
+        private System.Windows.Forms.Label label1;
     }
 }
 
