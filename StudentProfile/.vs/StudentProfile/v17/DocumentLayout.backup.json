@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -46,8 +50,8 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
-              "ToolTip": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs*",
-              "RelativeToolTip": "StudentProfile\\Form1.cs*",
+              "ToolTip": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
+              "RelativeToolTip": "StudentProfile\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T12:46:36.89Z",
@@ -59,8 +63,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
-              "ToolTip": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs [Design]*",
-              "RelativeToolTip": "StudentProfile\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentProfile\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T12:14:46.132Z",
               "EditorCaption": " [Design]"
