@@ -35,7 +35,11 @@
             // lblStudProfile
             // 
             this.lblStudProfile.AutoSize = true;
+<<<<<<< HEAD
             this.lblStudProfile.Location = new System.Drawing.Point(29, 42);
+=======
+            this.lblStudProfile.Location = new System.Drawing.Point(30, 32);
+>>>>>>> 2baf3f1a51093eceab26107a46d6939f77ecd2e0
             this.lblStudProfile.Name = "lblStudProfile";
             this.lblStudProfile.Size = new System.Drawing.Size(187, 13);
             this.lblStudProfile.TabIndex = 0;
@@ -44,7 +48,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(42, 67);
+=======
+            this.label1.Location = new System.Drawing.Point(39, 57);
+>>>>>>> 2baf3f1a51093eceab26107a46d6939f77ecd2e0
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(156, 13);
             this.label1.TabIndex = 1;
