@@ -34,11 +34,11 @@
             // lblStudProfile
             // 
             this.lblStudProfile.AutoSize = true;
-            this.lblStudProfile.Location = new System.Drawing.Point(42, 55);
+            this.lblStudProfile.Location = new System.Drawing.Point(28, 55);
             this.lblStudProfile.Name = "lblStudProfile";
-            this.lblStudProfile.Size = new System.Drawing.Size(165, 13);
+            this.lblStudProfile.Size = new System.Drawing.Size(187, 13);
             this.lblStudProfile.TabIndex = 0;
-            this.lblStudProfile.Text = "Student Profile: Abelon Tomaquin";
+            this.lblStudProfile.Text = "Student Profile — GitHub Beginner Lab";
             // 
             // Form1
             // 

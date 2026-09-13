@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|c:\\users\\abede\\source\\repos\\github-beginner-lab\\studentprofile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|c:\\users\\abede\\source\\repos\\github-beginner-lab\\studentprofile\\studentprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|C:\\Users\\abede\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\studentprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0422025-F8FF-4203-AA04-BEE96AC0FE26}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "StudentProfile\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T13:35:15.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T13:35:15.341Z"
             },
             {
               "$type": "Document",
