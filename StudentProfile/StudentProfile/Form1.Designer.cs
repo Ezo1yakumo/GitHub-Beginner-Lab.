@@ -57,9 +57,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(57, 89);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(157, 13);
+            this.label2.Size = new System.Drawing.Size(165, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Email: abedelaria08@gmail.com";
+            this.label2.Text = "Email: hoshinoai2006@gmail,com";
             // 
             // label3
             // 
